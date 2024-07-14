@@ -48,7 +48,6 @@
     display: flex;
     flex-direction: column;
     align-items: start;
-    
 }
 
 .header_contacts_info {
@@ -73,7 +72,6 @@
     line-height: 1.35;
     letter-spacing: 0.01em;
     text-underline-offset: 5px;
-
 }
 
 .cover {
@@ -93,7 +91,6 @@
     inset: 0;
     width: 100%;
     height: 100%;
-
 }
 
 .cover_header_title {
@@ -172,6 +169,7 @@
 .lots {
     padding: 179px 24px 2px 24px
 }
+
 .lots_heading {
     padding-left: 40px;
     padding-bottom: 27px;
@@ -208,8 +206,6 @@
     background-position: center;
     position: relative;
 }
-
-
 
 .card_link {
     text-decoration: none;
